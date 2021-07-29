@@ -1,0 +1,3 @@
+trust:
+  store: classpath:keystore/my_self_signed.p12
+  password: 123456
